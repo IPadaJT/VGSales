@@ -50,12 +50,15 @@ Feel free to explore the csv files for the answers or take a look at some of the
 
 # Data Viz
 Best Selling Games
+
 ![image](https://github.com/IPadaJT/VGSales/assets/117694350/ce3acc2c-6a01-470f-9a9c-f1a02d29cad2)
 
 Best Selling Years
+
 ![image](https://github.com/IPadaJT/VGSales/assets/117694350/5e8be9aa-f4e9-45a9-9ea8-f03ec953f2a7)
 
 Top Years for Critics and Users
+
 ![image](https://github.com/IPadaJT/VGSales/assets/117694350/ac4ca76c-3605-43e4-93fa-040c18801991)
 
 
